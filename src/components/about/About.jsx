@@ -52,7 +52,7 @@ const About = () => {
             including my time as a Junior developer at AAXA and a Restaurant
             Manager, which honed my skills in teamwork, problem-solving, and
             operations management. Feel free to explore my projects and get in
-            touch at albertboyd080@gmail.com. I'm always open to new
+            touch at albertboyd0429@gmail.com. I'm always open to new
             opportunities and collaborations!
           </p>
           <a href="#contact" className="btn btn-primary">
